@@ -1,2 +1,2 @@
 # flan-zede.github.io
-My CV online
+My personal website
