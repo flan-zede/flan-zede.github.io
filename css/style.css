@@ -201,7 +201,7 @@ canvas {height: auto !important; position: absolute; width: 100% !important; lef
 .theme-bg .about-desc ul li a:hover{color:  #17202a;}
 .theme-bg .about-desc ul li i{color: #ffffff;}
 
-.education-box-item{border-bottom: 1px solid rgba(255,255,255,0.1); padding: 30px 0;}
+.education-box-item{border-bottom: 1px solid rgba(255,255,255,0.1); padding: 20px 0;}
 .education-box-item:last-child{border-bottom: none; padding-bottom: 0;}
 .education-box-item p{margin-bottom: 0;}
 
