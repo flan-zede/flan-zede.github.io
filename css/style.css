@@ -214,7 +214,7 @@ canvas {height: auto !important; position: absolute; width: 100% !important; lef
 .ht-progress-bar h4 {color:  #17202a; font-weight: 600; font-size: 14px;}
 .ht-progress-bar .progress {height: 5px; background: #eceff8; overflow: visible; border-radius: 5px;}
 .ht-progress-bar .progress .progress-bar {background-color: #3274f0; position: relative; overflow: visible; border-radius: 5px;}
-.ht-progress-bar .progress-bar .progress-parcent{position: absolute; font-size: 14px; background: #3274f0; border-radius: 7px; color: #fff; display: inline-block; padding: 0 8px; right: -5px; text-align: center; top: -30px;}
+.ht-progress-bar .progress-bar .progress-parcent{position: absolute; font-size: 14px; background: #3274f0; border-radius: 7px; color: #fff; display: inline-block; padding: 0 8px; right: -5px; text-align: center; top: -17px;}
 .ht-progress-bar .progress-bar .progress-parcent::before {background: #ffffff; bottom: -2px; content: ""; display: block; height: 5px; left: 50%; margin-left: -2px; position: absolute; transform: rotate(45deg); width: 5px;}
 
 .theme-bg .ht-progress-bar .progress{background: rgba(255,255,255,0.2);}
